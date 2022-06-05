@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="text1">GO!</string>
+    <string name="replay">Play Again!</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="start">Start</string>
+    <string name="timeup">Time Up!!</string>
+    <string name="ets">ETA:</string>
+    <string name="diagnosis1">Total Answered </string>
+    <string name="diagnosis2">Total Correct </string>
+    <string name="diagnosis3">Percentage </string>
+    <string name="failure">You Failed!!!</string>
+</resources>

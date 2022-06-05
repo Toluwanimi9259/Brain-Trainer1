@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="newrr">#FFE0B2</color>
+    <color name="flatui">#D32F2F</color>
+    <color name="primary">#f44336</color>
+    <color name="primary_dark">#e74c3c</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="accent">#FF5252</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary1">#4CAF50</color>
+    <color name="primary_dark1">#388E3C</color>
+    <color name="primary_light1">#C8E6C9</color>
+    <color name="accent1">#4CAF50</color>
+    <color name="primary_text1">#212121</color>
+    <color name="secondary_text1">#757575</color>
+    <color name="icons1">#FFFFFF</color>
+    <color name="divider1">#BDBDBD</color>
+    <color name="primary2">#9C27B0</color>
+    <color name="primary_dark2">#7B1FA2</color>
+    <color name="primary_light2">#E1BEE7</color>
+    <color name="accent2">#7C4DFF</color>
+    <color name="primary_text2">#212121</color>
+    <color name="secondary_text2">#757575</color>
+    <color name="icons2">#FFFFFF</color>
+    <color name="divider2">#BDBDBD</color>
+
+</resources>
